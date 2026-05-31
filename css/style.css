@@ -1535,7 +1535,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
 }
 .test-meta {
   font-size: 14px;
-  color: var(--dim);
+  color: var(--muted);
 }
 
 /* ─── FAQ ────────────────────────────────────────── */
