@@ -331,7 +331,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
 
 .hero-h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: clamp(29px, 4.8vw, 64px);
+  font-size: clamp(26px, 4.8vw, 64px);
   font-weight: 800;
   line-height: 1.05;
   letter-spacing: -.02em;
