@@ -2212,7 +2212,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
   .prog-perks { padding: 24px 20px; }
 
   /* ── Program tabs ── */
-  .prog-tab { padding: 12px 16px; }
+  .prog-tab { padding: 12px 16px; flex: 1 1 calc(50% - 4px); }
   .prog-tab-label { font-size: 15px; }
 
   /* ── Module accordion body indent ── */
