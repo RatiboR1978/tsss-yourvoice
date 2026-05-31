@@ -1870,7 +1870,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
     align-items: stretch;
   }
   .trust-item { border-bottom: 1px solid var(--border); }
-  .trust-item:last-child { border-bottom: none; }
+  .trust-item:last-child { border-bottom: none; grid-column: 1 / -1; }
 }
 
 /* ─── Opportunity ────────────────────────────────── */
