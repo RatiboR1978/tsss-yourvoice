@@ -1454,9 +1454,9 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
   margin-top: 40px;
   text-align: center;
   font-size: 16px;
-  color: var(--dim);
+  color: var(--muted);
 }
-.pricing-installment-note strong { color: var(--muted); }
+.pricing-installment-note strong { color: var(--text); }
 
 /* ─── Testimonials ──────────────────────────────── */
 #testimonials { padding: 110px 0 100px; background: var(--bg); }
