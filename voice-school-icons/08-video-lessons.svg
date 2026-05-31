@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Video lessons icon">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.15" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#glow)" stroke="#D8A64A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="10" y="14" width="44" height="30" rx="5"/>
+    <path d="M29 24l10 6-10 6z"/>
+    <path d="M25 50h14"/>
+    <path d="M32 44v6"/>
+  </g>
+  <g stroke="#8F94C8" stroke-width="1.5" stroke-linecap="round" opacity=".6">
+    <path d="M15 51c2-3 4-3 6 0s4 3 6 0"/>
+    <path d="M37 51c2-3 4-3 6 0s4 3 6 0"/>
+  </g>
+</svg>

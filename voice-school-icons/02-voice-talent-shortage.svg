@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Voice talent shortage icon">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g stroke="#8F94C8" stroke-width="1.5" opacity=".55">
+      <path d="M13 30v6"/>
+      <path d="M18 25v16"/>
+      <path d="M23 29v8"/>
+      <path d="M41 28v10"/>
+      <path d="M46 24v18"/>
+      <path d="M51 30v6"/>
+    </g>
+    <g filter="url(#glow)" stroke="#D8A64A" stroke-width="2">
+      <rect x="27" y="14" width="10" height="24" rx="5"/>
+      <path d="M22 30c0 8 4 13 10 13s10-5 10-13"/>
+      <path d="M32 43v7"/>
+      <path d="M25 50h14"/>
+    </g>
+    <path d="M30 22h4" stroke="#C89432" stroke-width="1.5"/>
+    <path d="M30 28h4" stroke="#C89432" stroke-width="1.5"/>
+  </g>
+</svg>
