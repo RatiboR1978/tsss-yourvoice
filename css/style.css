@@ -1375,6 +1375,12 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
   color: var(--muted);
   margin-bottom: 18px;
 }
+.pricing-old-price {
+  font-size: 18px;
+  color: #999;
+  text-decoration: line-through;
+  margin-bottom: 4px;
+}
 .pricing-price {
   font-family: 'Montserrat', sans-serif;
   font-size: 38px;
