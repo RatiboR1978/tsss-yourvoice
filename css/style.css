@@ -1864,6 +1864,11 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
 }
 @media (max-width: 700px) {
   .trust-sep { display: none; }
+  .trust-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: stretch;
+  }
   .trust-item { border-bottom: 1px solid var(--border); }
   .trust-item:last-child { border-bottom: none; }
 }
