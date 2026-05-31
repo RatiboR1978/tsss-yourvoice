@@ -2161,6 +2161,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
   #hero { padding-top: 80px; }
   .hero-video { object-position: 80% top; }
   .hero-content { max-width: 100%; margin-left: 0; padding: 0 14px; }
+  .label-row--hero,
   .hero-h1,
   .hero-sub,
   .hero-ctas { max-width: 62%; }
