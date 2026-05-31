@@ -2159,7 +2159,7 @@ h1, h2, h3   { font-family: 'Cormorant Garamond', Georgia, serif; }
 
   /* ── Hero ── */
   #hero { padding-top: 80px; }
-  .hero-video { object-position: 72% top; }
+  .hero-video { object-position: 80% top; }
   .hero-content { max-width: 62%; margin-left: 0; padding: 0 14px; }
   .hero-h1 { margin-bottom: 20px; }
   .hero-sub {
